@@ -1,0 +1,9 @@
+I learned much about linux in the past at ALX software engineering and I know some famous commands I would like to share it with you:
+1) cd (dir1) --> it changes to the directory you want for example dir1.
+2) ls --> It lists all the files in your directory with starting alphabet which means if a file has any symbol at the first of its name it want show and to do so use ls -la.
+3) mkdir (dir2) --> It creates a new directory with the name dir2.
+4) rm (file) --> it removes a file, sometimes it can't remove a non-empty file so in this case I use rm -r to force remove a file or a directory.
+5) cp file1 file2 --> it copies the contents in file1 to file2, if file2 doesn't exist, it creates it first.
+6) mv file1 file2 --> it moves the contents in file1 to file2, if file2 doesn't exist, it creates it first.
+7) echo --> it creates a text file.
+8) touch --> it creates an empty file.
